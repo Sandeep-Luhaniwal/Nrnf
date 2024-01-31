@@ -57,7 +57,7 @@
 }
 
 .roadmap_pl {
-    padding-left: 65px;
+    padding-left: 54px;
 }
 
 
@@ -250,6 +250,12 @@
     }
 }
 
+@media (max-width: 575.98px) {
+    .roadmap_mobile_cirle_position {
+        top: 60px;
+        left: -24px;
+    }
+}
 
 @media (min-width: 1320px) and (max-width: 1599.98px) {
     .custom_container {
