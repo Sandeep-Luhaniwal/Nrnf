@@ -25,7 +25,7 @@
 .roadmap_border_para::before {
     content: "";
     position: absolute;
-    width: calc(100% - 60px);
+    width: calc(100% - 55.5px);
     height: 11px;
     bottom: -9px;
     left: 0;
