@@ -1,3 +1,19 @@
+.fw_semibold {
+    font-weight: 600 !important;
+}
+
+.bg-light-black {
+    background-color: var(--color-light-black);
+}
+
+.lh-140 {
+    line-height: 140.836%;
+}
+
+.color_dark_orange {
+    color: var(--color-dark-orange);
+}
+
 .roadmap_para_lh {
     line-height: 135.52%;
 }
@@ -261,4 +277,15 @@
     .custom_container {
         max-width: 1240px !important;
     }
+}
+
+.max-w-paragraph {
+    max-width: 630px;
+}
+
+.max-w-subheading {
+    max-width: 828px;
+    box-shadow: 0px 0px 28px 0px #000;
+    border-radius: 16px;
+    padding: 30px 30px 30px 81px;
 }
